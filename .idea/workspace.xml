@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1950a81c-519f-4ea3-aa80-5823e1fdc8dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/Bell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/Bluetooth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/PicContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/PrintPdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/Queries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/Settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawerScreens/Wifi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/BluetoothIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Bp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Spo2Component1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Spo2Component2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Temparature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ecg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/fleximg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/mainpic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/nibp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/spo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/temp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screens/DrawerContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screens/Ecg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screens/Nibp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screens/Spo2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screens/Temp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/Bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/BluetoothIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/Queries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/backArrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/battery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/bluetooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/cookie100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/cookie50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/ingredients.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/piccontainer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/wifi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/DrawerScreens/Battery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MXBW1g3LGSbG0KthkHG9CEhzpU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/Projects/INTERN-PROJECT/3m3d-project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1950a81c-519f-4ea3-aa80-5823e1fdc8dc" name="Changes" comment="" />
+      <created>1677904074674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677904074674</updated>
+    </task>
+    <servers />
+  </component>
+</project>
